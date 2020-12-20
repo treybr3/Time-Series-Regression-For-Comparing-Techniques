@@ -1,1 +1,1 @@
-# Time-Series-Regression-For-Comparing-Techniques
+# Time-Series-Regression-
